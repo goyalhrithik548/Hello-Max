@@ -1,7 +1,3 @@
-Certainly! Below is a detailed README file for your 'Hello Max' project, tailored to be uploaded on GitHub:
-
----
-
 # Hello Max
 
 Hello Max is an advanced AI assistant capable of recognizing speech, detecting faces, recognizing emotions, and interpreting hand gestures. It leverages several state-of-the-art technologies and libraries to provide a comprehensive interaction experience. The project includes features like sending emails, retrieving weather information, and opening various applications on your computer via voice commands.
